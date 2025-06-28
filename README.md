@@ -39,5 +39,6 @@ A background image is included using **base64 encoding** for smooth integration 
 
 
 ## 💻 How to Run Locally
+Live demo availaible at https://universitypredictor.streamlit.app/
 
 
